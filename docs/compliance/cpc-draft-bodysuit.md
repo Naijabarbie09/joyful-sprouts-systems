@@ -10,14 +10,14 @@
 - Colours: Oat, Sage
 - Sizes: Newborn, 0-3M, 3-6M, 6-9M, 9-12M, 12-18M
 - SKUs: JSO-BDY-OAT-[size], JSO-BDY-SGE-[size]
-- Materials: 100% organic cotton interlock, 220 to 240 GSM; cotton thread; cotton embroidery; metal snaps; printed neck label
+- Materials: 100% cotton interlock, 200 to 220 GSM as produced per the supplier (organic status unproven; tech pack specified 220 to 240 GSM organic); cotton thread; cotton embroidery; metal snaps; printed neck label
 - Production lot: Drop 1, manufactured August 2026 [add batch code once assigned]
 
 ## 2. Safety rules to which this product is certified
 
 | Rule | Basis for certification |
 |---|---|
-| 16 CFR Part 1610, Standard for the Flammability of Clothing Textiles | Exempt from testing under 16 CFR 1610.1(d)(1): plain surface fabric weighing 2.6 oz per square yard or more. Fabric is 220 to 240 GSM (about 6.5 to 7.1 oz per square yard). |
+| 16 CFR Part 1610, Standard for the Flammability of Clothing Textiles | Exempt from testing under 16 CFR 1610.1(d)(1): plain surface fabric weighing 2.6 oz per square yard or more. Supplier states 200 to 220 GSM as produced (about 5.9 to 6.5 oz per square yard); the tech pack specified 220 to 240 GSM. |
 | 15 U.S.C. 1278a, Total Lead Content in Children's Products: fabric, thread, embroidery | No testing required under the determination at 16 CFR 1500.91(d)(7) (textiles). |
 | 15 U.S.C. 1278a, Total Lead Content: metal snaps | No testing required under the determination at 16 CFR 1500.91(e)(1) (surgical steel and other stainless steel), **if** the supplier's written declaration confirms a qualifying stainless steel grade. [OPEN] |
 | 15 U.S.C. 1278a, Total Lead Content: printed neck label ink | [OPEN: supplier ink compliance statement or test report. If the ink counts as a surface coating, 16 CFR Part 1303 applies instead.] |

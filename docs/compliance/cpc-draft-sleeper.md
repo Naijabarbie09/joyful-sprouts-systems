@@ -10,7 +10,7 @@
 - Colours: Oat, Sage
 - Sizes: Newborn, 0-3M, 3-6M, 6-12M, 12-18M
 - SKUs: JSO-SLP-OAT-[size], JSO-SLP-SGE-[size]
-- Materials: 100% organic cotton interlock, 220 to 240 GSM; cotton thread; cotton embroidery; two-way zipper; printed neck label; silicone foot grips on 6-12M and 12-18M
+- Materials: 100% cotton interlock, 200 to 220 GSM as produced per the supplier (organic status unproven; tech pack specified 220 to 240 GSM organic); cotton thread; cotton embroidery; two-way zipper; printed neck label; silicone foot grips on 6-12M and 12-18M
 - Production lot: Drop 1, manufactured August 2026 [add batch code once assigned]
 
 ## 2. Safety rules to which this product is certified
@@ -19,7 +19,7 @@
 |---|---|---|
 | 16 CFR Part 1615, Flammability of Children's Sleepwear, sizes 0 through 6X | NB, 0-3M, 3-6M | Excluded as infant garments under 16 CFR 1615.1(c): sized 9 months or smaller, one-piece length under 25.75 in, labelled with size in months. [Confirm the label wording for NB.] |
 | 16 CFR Part 1615 | 6-12M, 12-18M | Excluded as tight-fitting garments under 16 CFR 1615.1(o). Requires: measurements within the table maximums [measurement record OPEN], neck statement and hangtag [to be applied, OPEN]. |
-| 16 CFR Part 1610, Flammability of Clothing Textiles | All sizes | Exempt from testing under 16 CFR 1610.1(d)(1): plain surface fabric of 2.6 oz per square yard or more (220 to 240 GSM). |
+| 16 CFR Part 1610, Flammability of Clothing Textiles | All sizes | Exempt from testing under 16 CFR 1610.1(d)(1): plain surface fabric of 2.6 oz per square yard or more (supplier states 200 to 220 GSM as produced, about 5.9 to 6.5 oz per square yard). |
 | 15 U.S.C. 1278a, Total Lead Content: fabric, thread, embroidery | All sizes | Determination at 16 CFR 1500.91(d)(7) (textiles). |
 | 15 U.S.C. 1278a, Total Lead Content: zipper slider, pull, stops | All sizes | [OPEN: zipper maker's compliance certificate or test report. If the pull is painted or coated, 16 CFR Part 1303 also applies.] |
 | 15 U.S.C. 1278a, Total Lead Content: printed neck label ink, silicone foot grips | All sizes; grips on 6-12M and 12-18M | [OPEN: supplier test report or statement.] |

@@ -27,3 +27,11 @@ Also to check: Klaviyo flows and the seven holiday drafts, the free guide, the K
 2. Keep "100% organic cotton" only once the supplier provides proof of the organic fibre or yarn. Until then the safest wording is "100% cotton".
 3. Ask the supplier for the organic certificate or transaction certificate of the yarn or fibre he bought.
 4. For the next manufacturer, make the certificate a purchase-order condition and get it before paying the balance.
+
+## Supplier's fabric answer (relayed by the owner, 2026-11-17)
+
+"100% Cotton interlock 200 - 220 gsm."
+
+- The supplier's own description says cotton, not organic cotton.
+- Weight is 200 to 220 GSM, lighter than the 220 to 240 GSM specified. Still far above the 2.6 oz per square yard (about 88 GSM) flammability threshold, so that exemption holds.
+- The garment label and product pages say "100% Organic Cotton". With no certificate and a supplier description that omits "organic", that claim currently has no evidence behind it.
