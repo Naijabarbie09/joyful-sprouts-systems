@@ -49,3 +49,20 @@ A registered CPSC small batch manufacturer may be able to rely on supplier compo
 ## Exposure
 
 About 170 of the 421 sleepers are in the two larger sizes (Sage is 43 + 43 in Shopify; Oat assumed similar, not re-counted), roughly $5,400 at full price.
+
+## Update 2026-11-17: owner measurement result and label fix
+
+Owner reports the larger sleepers passed the measurement check and confirms they carry neither the neck statement nor the hangtag. Not yet recorded: which sizes and how many units were measured, the seven measurements for each, and which limits were used for 12-18M (that row was not verified by the PM agent).
+
+### Label fix spec (draft, confirm wording and format in 16 CFR 1615.1(o)(10) and (11))
+
+| Item | Requirement | Confidence |
+|---|---|---|
+| Neck statement | "WEAR SNUG-FITTING, NOT FLAME RESISTANT", capitals, at the centre back neck directly below the size | Wording and placement from the CPSC FAQ. Minimum 5 point sans serif is from a secondary source. |
+| Hangtag text | "For child's safety, garment should fit snugly. This garment is not flame resistant. Loose-fitting garment is more likely to catch fire." | Wording from the eCFR extract |
+| Hangtag format | Yellow tag, black text, Arial or Helvetica | Colour from the CPSC FAQ; font from the Federal Register correction. Tag size and type size NOT VERIFIED (recalled as 1.5 x 6.25 in and 18 point). |
+| Packaging | If sold in a package, the package carries the same hangtag wording | eCFR extract |
+
+Applies to every 6-12M and 12-18M sleeper before it is sold, gifted or shipped. The neck statement has to be permanent (heat-pressed print or sewn label).
+
+Keep a measurement record: date, size, colour, unit count, each of the seven measurements, and the limit used.
