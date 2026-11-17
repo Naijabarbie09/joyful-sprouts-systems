@@ -66,3 +66,17 @@ Owner reports the larger sleepers passed the measurement check and confirms they
 Applies to every 6-12M and 12-18M sleeper before it is sold, gifted or shipped. The neck statement has to be permanent (heat-pressed print or sewn label).
 
 Keep a measurement record: date, size, colour, unit count, each of the seven measurements, and the limit used.
+
+### 12-18 months maximums (supplied by the owner from the regulation table, 2026-11-17)
+
+| Point | Maximum around (in) | Flat measurement (in) |
+|---|---|---|
+| Chest | 19 1/2 | 9 3/4 |
+| Waist | 19 1/2 | 9 3/4 |
+| Seat | 20 | 10 |
+| Upper arm | 5 7/8 | 2 15/16 |
+| Thigh | 11 1/8 | 5 9/16 |
+| Wrist | 4 1/8 | 2 1/16 |
+| Ankle | 5 1/8 | 2 9/16 |
+
+The tech pack specifies a 12-18M chest of 10.0 in flat (20 in around), which is 1/2 in over the chest maximum. The produced garments must therefore measure 9 3/4 in or less flat at the chest to pass. Actual measured values are not yet on record.
