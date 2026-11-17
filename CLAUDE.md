@@ -70,7 +70,7 @@ Drafts, analyses, proposals and Notion/repo documentation do not need approval. 
 
 ## Session close (every session)
 
-1. **Notion** - add a session page in Notion. Session 01 is a private draft (https://app.notion.com/p/41b5af3e7dd4812a8172e13df28d0eb8) until the owner names a permanent home; put later sessions wherever she chooses. Each page carries with: date, prayer noted, items done, decisions and the data behind them, items outstanding (owner, due date), blockers, numbers snapshot. Update any ticket you touched in the four ticket databases.
+1. **Notion** - add a session page in Notion. Session 01 is a private draft (https://app.notion.com/p/41b5af3e7dd4812a8172e13df28d0eb8) until the owner names a permanent home; put later sessions wherever the owner chooses. Each page carries: date, prayer noted, items done, decisions and the data behind them, items outstanding (owner, due date), blockers, numbers snapshot. Update any ticket you touched in the four ticket databases.
 2. **Repo** - write `sessions/YYYY-MM-DD-session-NN.md` with the same content, then commit and push.
 3. **COO report** - the top of the session log is a five-line brief for the COO agent: what moved, what is stuck, what needs the owner, what the numbers say, what is next.
 4. If Notion or git is unavailable, say so plainly in the final message and in whichever log did get written.
