@@ -84,3 +84,7 @@ The tech pack specifies a 12-18M chest of 10.0 in flat (20 in around), which is 
 ### Owner statement, 2026-11-17
 
 The owner reports the larger sleepers were deliberately produced smaller than the tech pack so they would meet the tight-fitting limits, and that they passed when measured. Recorded as owner-reported. The measured values per size are still to be written down before a certificate is signed.
+
+### Hangtag artwork checked, 2026-11-17
+
+Owner's hangtag PDF: trim 6.25 x 1.5 in, yellow background, black Helvetica at 18 point, three-line wording matching the eCFR extract. Matches the format recalled for 16 CFR 1615.1(o)(10)(i); the official tag-size and type-size text was still not read directly by the PM agent. Print at 100% scale. The hangtag does not replace the permanent neck statement, which is still to be applied.
