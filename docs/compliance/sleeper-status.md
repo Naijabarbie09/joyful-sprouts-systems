@@ -80,3 +80,7 @@ Keep a measurement record: date, size, colour, unit count, each of the seven mea
 | Ankle | 5 1/8 | 2 9/16 |
 
 The tech pack specifies a 12-18M chest of 10.0 in flat (20 in around), which is 1/2 in over the chest maximum. The produced garments must therefore measure 9 3/4 in or less flat at the chest to pass. Actual measured values are not yet on record.
+
+### Owner statement, 2026-11-17
+
+The owner reports the larger sleepers were deliberately produced smaller than the tech pack so they would meet the tight-fitting limits, and that they passed when measured. Recorded as owner-reported. The measured values per size are still to be written down before a certificate is signed.
