@@ -40,7 +40,7 @@ Felicia Oyewole, Founder
 
 ## 5. Date and place of manufacture
 
-August 2026. Alpha Organics Clothing, Tamil Nadu, India. [Confirm the factory city.]
+August 2026. Alpha Organics Clothing India, Byepass Road, Komarapalayam, Bhavani, Erode 638183, Tamil Nadu, India (from the carton packing list).
 
 ## 6. Date and place of testing
 
