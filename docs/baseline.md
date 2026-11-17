@@ -150,3 +150,17 @@ Sources: Notion Legal + Compliance and Production tickets (state as of Aug 6), D
 | QuickBooks | Needs the owner to sign in again |
 | Windsor.ai (Instagram, Meta Ads, GA4, TikTok) | Connected but no accounts linked, so no social or ad data |
 | Live storefront from this environment | Blocked by the environment's network settings |
+
+## 10. Refresh, 2026-11-17 (supersedes earlier sections where they conflict)
+
+Source: Shopify GraphQL read on 2026-11-17, plus the owner's PM refresh dated Nov 16 ET.
+
+- **Orders:** 8 non-test orders, all created Nov 16. Two are paid tote orders at $26.50 each (unfulfilled; reconcile against the Kickstarter roster before counting as new revenue). Six are $0 gifted apparel orders covering 7 bodysuits and 5 sleepers; five are marked fulfilled. Paid Drop 1 apparel orders: still 0.
+- **Inventory:** 876 units (455 bodysuits, 421 sleepers). The drop from 888 matches the gifted orders. Physical count by SKU still open.
+- **Prices:** $24 / $32 / $44 / $52 / $76 are current. The $18 and $19 figures are historical. Price decision closed.
+- **Holiday emails:** all seven Nov 20 to Dec 1 messages are drafts, not scheduled.
+- **Kickstarter:** fulfilment under way; an Oct 23 reply to the backer was found. Remaining bib / swaddle / refund remedies still to verify against the Nov 16 export.
+- **Creators:** one accepted a gifted Starter Set (content due about Nov 23); others pending. One earlier creator was moved to the spring toddler opportunity.
+- **Cash:** October payment declines are historical. The $1,162.20 UPS charge was paid with a family loan and still needs reconciling with the $1,900 freight line.
+- **Spring 2027:** pastel pink and yellow bodysuits and a girls' muslin set are planned for March; deposit and assortment unconfirmed.
+- **Compliance:** the owner reports submitting an exemption to UPS relating to the Children's Product Certificate. What was filed (which disclaim or exemption, on what basis) is NOT VERIFIED. An import-entry disclaim does not by itself remove the duty to hold a certificate for a children's product; see the session 02 note. At least 12 apparel units have left the building with no certificate on record.
