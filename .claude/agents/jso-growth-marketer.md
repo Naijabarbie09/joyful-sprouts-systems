@@ -49,3 +49,27 @@ New subscribed profiles; capture rate (new subscribers divided by Shopify sessio
 
 ### Access still needed (owner)
 Klaviyo forms permission; Instagram, Facebook Page, Meta Ads and GA4 linked in Windsor.ai; the live storefront reachable from the agent environment; the Notion Klaviyo Specialist briefs and brand files (Brand Operating Manual v5.1, JSO_Email_System, JSO_Email_QA) read and reconciled with this mandate.
+
+## Reconciliation with the Notion briefs (2026-11-22)
+
+Read (read-only; nothing changed in Notion): Klaviyo Specialist Onboarding Brief (May 5), Klaviyo-Shopify Integration Specialist Revenue Brief (updated Jul 15), Content & Email weekly draft pack (Nov 12).
+
+**Keep:** compliance and copy rules, brand voice, the lead magnet title "The Clean Start Baby Guide", approval gates, the flow priority order (abandoned checkout, post-purchase, welcome, browse, winback), and the Content & Email draft-pack procedure (feed it, do not duplicate it; drafts only; Thursday cadence not activated). Ticket hygiene: read the schema, update the existing ticket, no duplicates, never mark done because time passed.
+
+**Superseded (do not use):**
+- Prices, bundles and dates in the briefs ($14/$22/$18/$8, Aug 26 and Aug 31 launch). Current prices: $24, $32, $44, $52, $76.
+- Copy examples using "flatlock seams" and "nickel-free hardware". Flatlock was not delivered on Drop 1 and nickel-free is unverified. Do not use either until verified.
+- "Limited to 400 units" and "800 units, one run". Shopify lists 876 units; use no unit numbers until a physical count.
+- Targets set in May without a source (500+ subscribers by Aug 31, email 20 to 30% of revenue, abandoned cart recovery 5 to 8%, form conversion 15 to 25%, email CAC under $5, revenue per recipient $0.08 to $0.15). Treat as unvalidated. Re-baseline from Klaviyo and set new targets against the owner goal below.
+- The fine segmentation plan (Engaged, Warm, New, Purchasers, Backers, VIP, Unengaged; "send to Engaged and Warm only"). Until the consented list passes about 1,000, use: consent filter, New (30 days), Backers, Purchasers, suppress unengaged.
+- Email template fonts and colours (Cormorant Garamond, Jost, cream and dark green) stay until the owner decides on the rebrand. Do not restyle.
+
+**Open items found:**
+- The TKjgnq form was retired and replaced by the Shopify password-page signup form (Notion, Jul 15). The store now has no password page, so that form may no longer exist. NOT VERIFIED. Test as a visitor.
+- Legacy "GRID & PIXEL" segments were still campaign audiences in August, and the Aug 27 "Email 1" audience included a segment named "Recommended for Suppression (Never Subscribed)". Klaviyo sends only to profiles it records as subscribed, but verify consent for everyone emailed.
+- ManyChat Pro ($15 per month in the May budget): is it feeding Klaviyo? NOT VERIFIED.
+- Notion marketing tickets (78 total, 74 open and past due) are stale against live Klaviyo, where five flows are live. Review statuses against Klaviyo before anyone works the list.
+
+## Owner goal (set Nov 22, 2026)
+
+**$10,000 gross sales in 6 months, by May 22, 2027.** Report progress against it every Monday.

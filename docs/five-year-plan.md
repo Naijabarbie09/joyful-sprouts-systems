@@ -47,3 +47,21 @@ Each step from stage 3 on implies growing 2.5 to 4 times a year. That is aggress
 | Cost per order (postage, packaging, fees) | Unknown | First 25 shipped orders |
 | Repeat rate | 18% to 28% (vendor blog) | JSO cohort at 6 and 12 months |
 | Wholesale price | Unknown | Line sheet and Faire test |
+
+## Near-term goal (owner, 2026-11-22): $10,000 gross sales by May 22, 2027
+
+Check against data (PM agent, same day; proposals marked):
+
+| Item | Figure | Source |
+|---|---|---|
+| Gross sales to date, paid apparel | $0 (two paid tote orders, $53) | Shopify, Nov 17 |
+| Orders needed | about 193 at $52 average order, 250 at $40, 334 at $30 | arithmetic |
+| Per month / per week | about 32 / 7 orders at $52 | arithmetic |
+| Sessions needed at 1.6% conversion | about 12,000 (about 464 a week); about 19,300 at 1.0% | apparel conversion benchmark 1.6 to 1.9%, vendor blogs; JSO's own rate not yet measurable |
+| Sessions now | about 25 a week since mid-September (222 from Sep 14 to Nov 15), about 18 times too few | Shopify |
+| Share of Drop 1 stock | about 41% of $24,392 retail value (876 units) | Shopify |
+| Paid ads alone | 193 orders x $38.99 benchmark cost per purchase = about $7,500 of ads to book $10,000; gross profit per $52 order is about $39 before postage, fees and packaging | Triple Whale benchmark (all industries); provisional landed cost |
+
+Conclusion: reachable only if the product is cleared to sell and most orders come from owned and personal channels (email list, community and church network, gifted creators, gift sets), not paid ads. Starting hypothesis to test, not data: about 40% community and network, 30% email, 20% creators and organic social, 10% other.
+
+Proposed checkpoints (owner to confirm): Jan 22, 2027: certificates signed, capture fixed, $1,000 gross. Mar 22: $4,500 gross. May 22: $10,000 gross. List-size targets to be set after the first capture fix is measured. Definition of "gross sales" to confirm (Shopify gross sales is before discounts, returns, shipping and tax).
