@@ -65,3 +65,7 @@ Check against data (PM agent, same day; proposals marked):
 Conclusion: reachable only if the product is cleared to sell and most orders come from owned and personal channels (email list, community and church network, gifted creators, gift sets), not paid ads. Starting hypothesis to test, not data: about 40% community and network, 30% email, 20% creators and organic social, 10% other.
 
 Proposed checkpoints (owner to confirm): Jan 22, 2027: certificates signed, capture fixed, $1,000 gross. Mar 22: $4,500 gross. May 22: $10,000 gross. List-size targets to be set after the first capture fix is measured. Definition of "gross sales" to confirm (Shopify gross sales is before discounts, returns, shipping and tax).
+
+### Goal scoreboard (2026-11-24)
+
+Owner confirmed the checkpoints ($1,000 by Jan 22, $4,500 by Mar 22, $10,000 by May 22, 2027) and chose Shopify's gross sales as the measure. Check: since Nov 13 Shopify shows gross sales $366, discounts -$316, net sales $50 (8 orders). Gifted units are counted at full price in gross sales, so gifting inflates the measure by about $316, 3% of the goal, with no revenue. Proposed (owner to confirm): report both Shopify gross sales and **paid gross sales** (gross sales of orders where the customer paid), and tag gifted orders "gifted".
